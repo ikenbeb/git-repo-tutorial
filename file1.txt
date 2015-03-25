@@ -2,4 +2,4 @@ Just a new file with some content.
 
 A second line of content. Blah blah. You know.
 
-This is just a test from Bruce.
+This is just a test from Bruce!
