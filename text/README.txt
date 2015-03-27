@@ -3,6 +3,8 @@ git-repo-tutorial
 
 Test repository for Git workshop. Practice forking, committing and creating pull requests.
 
+Most of this tutorial is focused on the git command line. Because. Real developers. ;)
+
 Contributing
 ------------
 
